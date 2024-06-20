@@ -1,4 +1,6 @@
 # projeto-inicial-fetch-github-api
+https://patricia-naka.github.io/projeto-fetch-github-api/
+
 Repositório contendo os arquivos iniciais do projeto de Fetch e GitHub API.
 
 ## Visão Geral
