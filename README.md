@@ -1,8 +1,7 @@
-# projeto-inicial-fetch-github-api
+# projeto-fetch-github-api
 https://patricia-naka.github.io/projeto-fetch-github-api/
 
-Repositório contendo os arquivos iniciais do projeto de Fetch e GitHub API.
-
+Repositório  projeto fetch e GibHub API.
 ## Visão Geral
 Desafio do curso Dev Quest que simula novas solicitações feitas pelo gerente de projeto, a serem acrescentadas no projeto.
 ## O desafio
